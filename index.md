@@ -19,7 +19,7 @@
 I'm currently a PhD candidate majored in computer science from the Information Retrieval Lab (IRLab) at University of Amsterdam, under the supervision of Prof. Maarten de Rijke (elected member of the Royal Netherlands Academy of Arts and Sciences and director of the national Innovation Center for Artificial Intelligence), co-supervision of Christof Monz (head of the Language Technology Lab) and daily supervision of Pengjie Ren (professor of Shandong University). My research interests lie in natural language processing (dialogue systems and complex answer retrieval) and medical information processing (gene, behavior and brain fMRI image).
 
 ### EDUCATION BACKGROUND
-- 10/2018-10/2022    PhD Candidate of Informatics Institute, University of Amsterdam
+- 10/2018-10/2022    PhD Candidate of Computer Science, University of Amsterdam
 - 09/2015-07/2016    M.A. Quantitative Analysis of Business, City University of Hong Kong
 - 09/2012-07/2015    M.S. Cognitive Neuroscience, Beijing Normal University                         
 - 09/2008-07/2012    B.S. Honors Program (Biological Science), China Agricultural University 
