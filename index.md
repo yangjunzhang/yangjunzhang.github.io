@@ -56,7 +56,8 @@ Main project: Design the health underwriting algorithm for life insurance produc
 
 ### DATASET CONTRIBUTION
 - MDRDC (Malevolent Dialogue Response Detection and Classification) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
-- 
+- MDMD (Multi-label Dialogue Malevolence Detection) dataset [image](https://github.com/repozhang/malevolent_dialogue)
+
 
 ### HONORS AND AWARDS
 - Search-Oriented Conversational AI Workshop Scholarship (2019)
