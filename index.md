@@ -34,6 +34,7 @@ Main project: Design the health underwriting algorithm for life insurance produc
 -	05/2016-08/2017    Internship at Hong Kong Huanying Securities, Quantitative Investment Internship
 
 ### TEACHING
+-	FACT-AI course teaching assistant at University of Amsterdam.
 -	Data science and artificial intelligence master student theses supervision at University of Amsterdam. 
 -	Get the certificate for teaching assistant from Teaching and Learning Center at University of Amsterdam.
 
