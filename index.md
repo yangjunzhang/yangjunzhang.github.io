@@ -56,8 +56,8 @@ Main project: Design the health underwriting algorithm for a life insurance prod
 - Tong Wang, Xiaoqing Zhou, **Yangjun Zhang**. Study on cognitive ability and mental health status of the empty-nest elders in urban area of Beijing. International Journal of Traditional Chinese Medicine, 2013, 35(5): 385-387. (Paper in Chinese)
 
 ### PATENT
-1. Jingyan Wang, Yan Liu, **Yangjun Zhang**, Hailu Wang, Siyuan Meng, Long Chen, Zhenming Huang. Underwriting method and system for life insurance [P]. China, 108765177B. 2020-12-04.
-2. Pengjie Ren, Xiaomeng Song, Hongtao Tian, **Yangjun Zhang**, Zhumin Chen, Zhaochun Ren, Jun Ma, Huasheng Liang. Dialogue evaluation method and system based on human-machine collaboration. China, 113238947A. 2021-08-10.
+- Jingyan Wang, Yan Liu, **Yangjun Zhang**, Hailu Wang, Siyuan Meng, Long Chen, Zhenming Huang. Underwriting method and system for life insurance [P]. China, 108765177B. 2020-12-04.
+- Pengjie Ren, Xiaomeng Song, Hongtao Tian, **Yangjun Zhang**, Zhumin Chen, Zhaochun Ren, Jun Ma, Huasheng Liang. Dialogue evaluation method and system based on human-machine collaboration. China, 113238947A. 2021-08-10.
 
 ### DATASET CONTRIBUTION
 - MDRDC (Malevolent Dialogue Response Detection and Classification) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
@@ -76,5 +76,3 @@ HHAI’22, CIKM’22, CIKM’23, CLEF’23, SIGIR-AP’23, EMNLP’23.
 - China Agricultural University 3rd Study Excellence Scholarship (2011)
 - China Agricultural University 3rd Study Excellence Scholarship (2010)
 - China Agricultural University Research Innovation Scholarship (2010)
-
-
