@@ -18,8 +18,6 @@
 <!-- ### PROFESSIONAL SUMMARY -->
 I graduated with a Ph.D. in computer science from IRLab, at the University of Amsterdam. My Ph.D. thesis mainly focuses on malevolent dialogue response detection and evaluation. During my previous experience, I also worked on insurance underwriting with health data, as well as behavior and fMRI image analysis for cognitive impairment in old people.
 
-EDUCATION BACKGROUND
-
 ### EDUCATION BACKGROUND
 - 10/2018-12/2022    PhD Candidate of Computer Science, University of Amsterdam
 - 09/2015-07/2016    M.A. Quantitative Analysis of Business, City University of Hong Kong
