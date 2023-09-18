@@ -16,7 +16,9 @@
 </table> -->
 
 <!-- ### PROFESSIONAL SUMMARY -->
-I have graduated with a Ph.D. in computer science from the University of Amsterdam, under the supervision of Prof. Maarten de Rijke (elected member of the Royal Netherlands Academy of Arts and Sciences and director of the National Innovation Center for Artificial Intelligence) and co-supervision of Prof. Pengjie Ren from Shandong University, China. My research interests lie in natural language processing (safety of dialogue systems) and information retrieval, as well as medical information processing (gene, behavior, and brain fMRI image). EDUCATION BACKGROUND
+I graduated with a Ph.D. in computer science from IRLab, at the University of Amsterdam. My Ph.D. thesis mainly focuses on malevolent dialogue response detection and evaluation. During my previous experience, I also worked on insurance underwriting with health data, as well as behavior and fMRI image analysis for cognitive impairment in old people.
+
+EDUCATION BACKGROUND
 
 ### EDUCATION BACKGROUND
 - 10/2018-12/2022    PhD Candidate of Computer Science, University of Amsterdam
@@ -25,8 +27,9 @@ I have graduated with a Ph.D. in computer science from the University of Amsterd
 - 09/2008-07/2012    B.S. Honors Program (Biological Science), China Agricultural University 
 
 ### WORKING EXPERIENCES
+- 12/2022-04/2023	 Postdoctoral Researcher, Informatics Institute, University of Amsterdam
 - 02/2017-10/2018    Big Data Center of Sunshine Insurance Group, Machine Learning Engineer
-Main project: Design the health underwriting algorithm for life insurance product.
+Main project: Design the health underwriting algorithm for a life insurance product.
 
 ### INTERNSHIP EXPERIENCES
 -	02/2017-02/2017    Beijing Safety Work Bureau, Data Analyst Internship
@@ -34,11 +37,13 @@ Main project: Design the health underwriting algorithm for life insurance produc
 -	05/2016-08/2017    Internship at Hong Kong Huanying Securities, Quantitative Investment Internship
 
 ### TEACHING
--	FACT-AI course teaching assistant at University of Amsterdam.
--	Data science and artificial intelligence master student theses supervision at University of Amsterdam. 
--	Get the certificate for teaching assistant from Teaching and Learning Center at University of Amsterdam.
+-	FACT-AI course teaching assistant at the University of Amsterdam.
+-	Data science and artificial intelligence master student thesis supervision at the University of Amsterdam. 
+-	Get the certificate for teaching assistant from the Teaching and Learning Center at the University of Amsterdam.
 
 ### PUBLICATIONS
+- Na Li, **Yangjun Zhang**, and Zhiming Zhao. A Dense Retrieval System and Evaluation Dataset for Scientific Computational Notebooks. IEEE eScience Conference 2023. 2023.
+- Na Li, **Yangjun Zhang**, and Zhiming Zhao. CNSVRE: A Query Reformulated Search System with Explainable Summarization for Virtual Research Environment. Companion Proceedings of the ACM Web Conference 2023. 2023: 254-257. 
 - **Yangjun Zhang**, Pengjie Ren, Wentao Deng, Zhumin Chen and Maarten de Rijke. Improving Multi-label Malevolence Detection in Dialogues through Multi-faceted Label Correlation Enhancement. The 60th Annual Meeting of the Association for Computational Linguistics (Long Papers), Online, May 22-27, 2022. (CCF A)
 - **Yangjun Zhang**, Pengjie Ren and Maarten de Rijke. A human-machine collaborative framework for evaluating malevolence in dialogues. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2021: 5612-5623. (CCF A)[pdf](https://aclanthology.org/2021.acl-long.436.pdf)
 - **Yangjun Zhang**, Pengjie Ren and Maarten de Rijke. A taxonomy, data set, and benchmark for detecting and classifying malevolent dialogue responses[J]. The Journal of the Association for Information Science and Technology (JASIST), 2021, accepted. (CCF B, JCR Q1, CAS 2nd group, IF 2.69)[pdf](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/zhang-2021-taxonomy.pdf)
@@ -59,7 +64,9 @@ Main project: Design the health underwriting algorithm for life insurance produc
 ### DATASET CONTRIBUTION
 - MDRDC (Malevolent Dialogue Response Detection and Classification) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
 - MDMD (Multi-label Dialogue Malevolence Detection) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
-
+ 
+### REVIEWING
+HHAI’22, CIKM’22, CIKM’23, CLEF’23, SIGIR-AP’23, EMNLP’23.
 
 ### HONORS AND AWARDS
 - Search-Oriented Conversational AI Workshop Scholarship (2019)
