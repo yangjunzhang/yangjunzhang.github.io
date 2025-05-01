@@ -16,22 +16,23 @@
 </table> -->
 
 <!-- ### PROFESSIONAL SUMMARY -->
-I graduated with a Ph.D. in computer science from IRLab, at the University of Amsterdam. My Ph.D. thesis mainly focuses on malevolent dialogue response detection and evaluation. During my previous experience, I also worked on insurance underwriting with health data, as well as behavior and fMRI image analysis for cognitive impairment in old people.
+My main research direction is natural language processing and deep learning, with expertise in dialogue systems, uncertainty-calibrated classification, and reinforcement learning. I am currently working as a Postdoctoral Research Assistant at Queen Mary University of London.
+
 
 ### EDUCATION BACKGROUND
 - 10/2018-12/2022    PhD Candidate of Computer Science, University of Amsterdam
 - 09/2015-07/2016    M.A. Quantitative Analysis of Business, City University of Hong Kong
 - 09/2012-07/2015    M.S. Cognitive Neuroscience, Beijing Normal University                         
-- 09/2008-07/2012    B.S. Honors Program (Biological Science), China Agricultural University 
+- 09/2008-07/2012    B.S. Biological Science of Honors Program, China Agricultural University
 
 ### WORKING EXPERIENCES
-- 12/2022-04/2023	 Postdoctoral Researcher, Informatics Institute, University of Amsterdam
+- 05/2023-present    Postdoctoral Research Assistant, EECS, Queen Mary University of London
+- 12/2022-04/2023	   Postdoctoral Researcher, Informatics Institute, University of Amsterdam
 - 02/2017-10/2018    Big Data Center of Sunshine Insurance Group, Machine Learning Engineer
-Main project: Design the health underwriting algorithm for a life insurance product.
 
 ### INTERNSHIP EXPERIENCES
 -	02/2017-02/2017    Beijing Safety Work Bureau, Data Analyst Internship
--	10/2016-12/2016    JIC Lease, Financial Analyst Internship 
+-	10/2016-12/2016    JIC Lease, Quantitative Analyst Internship 
 -	05/2016-08/2017    Internship at Hong Kong Huanying Securities, Quantitative Investment Internship
 
 ### TEACHING
@@ -40,6 +41,7 @@ Main project: Design the health underwriting algorithm for a life insurance prod
 -	Get the certificate for teaching assistant from the Teaching and Learning Center at the University of Amsterdam.
 
 ### PUBLICATIONS
+- Pengjie Ren, Ruiqi Li, Zhumin Chen, Zhaochun Ren, Maarten de Rijke, Yangjun Zhang*. Malevolence Attacks Against Pretrained Dialogue Models. European Conference on Information Retrieval 2025. 2024.[pdf](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ren-2025-malevolence.pdf)
 - Na Li, **Yangjun Zhang**, and Zhiming Zhao. A Dense Retrieval System and Evaluation Dataset for Scientific Computational Notebooks. IEEE eScience Conference 2023. 2023.
 - Na Li, **Yangjun Zhang**, and Zhiming Zhao. CNSVRE: A Query Reformulated Search System with Explainable Summarization for Virtual Research Environment. Companion Proceedings of the ACM Web Conference 2023. 2023: 254-257. 
 - **Yangjun Zhang**, Pengjie Ren, Wentao Deng, Zhumin Chen and Maarten de Rijke. Improving Multi-label Malevolence Detection in Dialogues through Multi-faceted Label Correlation Enhancement. The 60th Annual Meeting of the Association for Computational Linguistics (Long Papers), Online, May 22-27, 2022. (CCF A)
@@ -50,7 +52,7 @@ Main project: Design the health underwriting algorithm for a life insurance prod
 - **Yangjun Zhang**, Pengjie Ren and Maarten de Rijke. Improving background-based conversation with context-aware knowledge pre-selection. Search-Oriented Conversational AI Workshop (SCAI), 2019.[pdf](https://arxiv.org/pdf/1906.06685.pdf)
 - Dongfeng Wei, Daojun Xie, He Li, Yaojing Chen, Di Qi, Yujiao Wang, **Yangjun Zhang**, Kewei Chen, Chuanfu Li and Zhanjun Zhang. The positive effects of Xueshuan Xinmai tablets on brain functional connectivity in acute ischemic stroke: a placebo controlled randomized trial[J]. Scientific Reports, 2017, 7(1): 1-11. (JCR Q1, CAS 3rd group, IF 5.13)[pdf](https://www.nature.com/articles/s41598-017-15456-9.pdf)
 - Hezhi Yang, **Yangjun Zhang**. Quality of life and its influential factors among rural elders losing land due to urbanization in China. Chinese Journal of Public Health, 2016, 32(2): 145-147. (Paper in Chinese, Corresponding Author, Chinese core journal, IF 2.32)
-- Yangjun Zhang, Dongfeng Wei, Kai Xu, Zhanjun Zhang. Progress in research of Scutellaria baicalensis improving learning and memory of brain and affecting Alzheimer's desease. Chinese Pharmacological Bulletin, 2014, 01: 9-13. (Paper in Chinese, Chinese core journal, IF 1.78)
+- Yangjun Zhang, Dongfeng Wei, Kai Xu, Zhanjun Zhang. Progress in research of Scutellaria baicalensis improving learning and memory of brain and affecting Alzheimer's disease. Chinese Pharmacological Bulletin, 2014, 01: 9-13. (Paper in Chinese, Chinese core journal, IF 1.78)
 - Weiguo Bai, **Yangjun Zhang**, Kai Xu. Research progress in pharmacologic action and mechanism of Ginseng extract for treating Alzheimer’s Disease. Chinese Journal of Information on Traditional Chinese Medicine, 2016, 23(9): 126-129. (Paper in Chinese)
 - KaiXu, Dongfeng Wei, **Yangjun Zhang**, Zhanjun Zhang. The mechanism of Anemarrhena on improving learning and memory and Alzheimer’s disease resistance. Chinese Journal of Information on TCM. 2014, 21(6): 132-135. (Paper in Chinese)
 - Tong Wang, Xiaoqing Zhou, **Yangjun Zhang**. Study on cognitive ability and mental health status of the empty-nest elders in urban area of Beijing. International Journal of Traditional Chinese Medicine, 2013, 35(5): 385-387. (Paper in Chinese)
@@ -64,7 +66,7 @@ Main project: Design the health underwriting algorithm for a life insurance prod
 - MDMD (Multi-label Dialogue Malevolence Detection) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
  
 ### REVIEWING
-HHAI’22, CIKM’22, CIKM’23, CLEF’23, SIGIR-AP’23, EMNLP’23.
+HHAI’22, CIKM’22, CIKM’23, CLEF’23, SIGIR-AP’23, EMNLP’23, SIGIR-AP’24, ACL’24, ACL’25, SIGIR’25, NLPCC’25 (Area chair)
 
 ### HONORS AND AWARDS
 - Search-Oriented Conversational AI Workshop Scholarship (2019)
