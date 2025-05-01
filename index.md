@@ -19,7 +19,8 @@
 My main research direction is natural language processing and deep learning, with expertise in dialogue systems, uncertainty-calibrated classification, and reinforcement learning. I am currently working as a Postdoctoral Research Assistant at Queen Mary University of London.
 
 ### NEWS
-I am serving as an Area Chair for the 2025 Conference on Natural Language Processing and Chinese Computing (NLPCC).
+- **2025:** Serving as an *Area Chair* for the *Conference on Natural Language Processing and Chinese Computing (NLPCC)*.
+- **2024:** The work *Malevolence Attacks Against Pretrained Dialogue Models* is accepted by *ECIR 2025*.
 
 ### EDUCATION BACKGROUND
 - 10/2018-12/2022    Ph.D.  Computer Science, University of Amsterdam
