@@ -6,9 +6,9 @@
       <img src="/img/img.jpeg" style="width: 100%; height: 100%"/>
     </td>
     <td width="75%">
-      <p><b>PhD candidate at University of Amsterdam</b></p>
+      <p><b>PhD at University of Amsterdam</b></p>
       <p><b>Major: Computer science</b></p>
-      <p><b>y.zhang6@uva.nl</b></p>
+      <p><b>yangjun.zhang@qmul.ac.uk</b></p>
       <p><b>Github page: https://github.com/repozhang</b></p>
     </td>
 
@@ -22,10 +22,10 @@ My main research direction is natural language processing and deep learning, wit
 I am serving as an Area Chair for the 2025 Conference on Natural Language Processing and Chinese Computing (NLPCC).
 
 ### EDUCATION BACKGROUND
-- 10/2018-12/2022    PhD Candidate of Computer Science, University of Amsterdam
-- 09/2015-07/2016    M.A. Quantitative Analysis of Business, City University of Hong Kong
-- 09/2012-07/2015    M.S. Cognitive Neuroscience, Beijing Normal University                         
-- 09/2008-07/2012    B.S. Biological Science of Honors Program, China Agricultural University
+- 10/2018-12/2022    Ph.D.  Computer Science, University of Amsterdam
+- 09/2015-07/2016    M.A.   Quantitative Analysis of Business, City University of Hong Kong
+- 09/2012-07/2015    M.S.   Cognitive Neuroscience, Beijing Normal University                         
+- 09/2008-07/2012    B.S.   Biological Science of Honors Program, China Agricultural University
 
 ### WORKING EXPERIENCES
 - 05/2023-present    Postdoctoral Research Assistant, EECS, Queen Mary University of London
