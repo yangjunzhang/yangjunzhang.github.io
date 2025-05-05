@@ -4,7 +4,7 @@ title: Dr. Yangjun Zhang
 description:  NLPer
 show_downloads: false
 google_analytics: UA-108144808-1
-theme: jekyll-theme-minimalist
+theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
