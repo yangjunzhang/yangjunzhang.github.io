@@ -62,7 +62,7 @@ My main research direction is natural language processing and deep learning, wit
 - KaiXu, Dongfeng Wei, **Yangjun Zhang**, Zhanjun Zhang. The mechanism of Anemarrhena on improving learning and memory and Alzheimer’s disease resistance. Chinese Journal of Information on TCM. 2014, 21(6): 132-135. (Paper in Chinese)
 - Tong Wang, Xiaoqing Zhou, **Yangjun Zhang**. Study on cognitive ability and mental health status of the empty-nest elders in urban area of Beijing. International Journal of Traditional Chinese Medicine, 2013, 35(5): 385-387. (Paper in Chinese)
 
-### PATENT
+### PATENTS
 - Jingyan Wang, Yan Liu, **Yangjun Zhang**, Hailu Wang, Siyuan Meng, Long Chen, Zhenming Huang. Underwriting method and system for life insurance [P]. China, 108765177B. 2020-12-04.
 - Pengjie Ren, Xiaomeng Song, Hongtao Tian, **Yangjun Zhang**, Zhumin Chen, Zhaochun Ren, Jun Ma, Huasheng Liang. Dialogue evaluation method and system based on human-machine collaboration. China, 113238947A. 2021-08-10.
 
