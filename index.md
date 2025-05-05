@@ -8,7 +8,7 @@ layout: default
       <img src="/img/img.jpeg" style="width: 100%; height: 100%"/>
     </td>
     <td width="75%">
-      <p><b>Dr Y Zhang</b></p>
+      <p><b>Researcher</b></p>
       <p><b>Major: Computer science</b></p>
       <p><b>yangjun.zhang@qmul.ac.uk</b></p>
       <p><b>Github page: https://github.com/repozhang</b></p>
