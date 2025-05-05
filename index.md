@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 ## Welcome to my homepage!
 <!-- <table border="0">
   <tr>
@@ -6,7 +8,7 @@
       <img src="/img/img.jpeg" style="width: 100%; height: 100%"/>
     </td>
     <td width="75%">
-      <p><b>PhD at University of Amsterdam</b></p>
+      <p><b>Dr Y Zhang</b></p>
       <p><b>Major: Computer science</b></p>
       <p><b>yangjun.zhang@qmul.ac.uk</b></p>
       <p><b>Github page: https://github.com/repozhang</b></p>
@@ -28,12 +30,12 @@ My main research direction is natural language processing and deep learning, wit
 - 09/2012-07/2015    M.S.   Cognitive Neuroscience, Beijing Normal University                         
 - 09/2008-07/2012    B.S.   Biological Science of Honors Program, China Agricultural University
 
-### WORKING EXPERIENCES
+### WORKING EXPERIENCE
 - 05/2023-present    Postdoctoral Research Assistant, EECS, Queen Mary University of London
 - 12/2022-04/2023	   Postdoctoral Researcher, Informatics Institute, University of Amsterdam
 - 02/2017-10/2018    Big Data Center of Sunshine Insurance Group, Machine Learning Engineer
 
-### INTERNSHIP EXPERIENCES
+### INTERNSHIP EXPERIENCE
 -	02/2017-02/2017    Beijing Safety Work Bureau, Data Analyst Internship
 -	10/2016-12/2016    JIC Lease, Quantitative Analyst Internship 
 -	05/2016-08/2017    Internship at Hong Kong Huanying Securities, Quantitative Investment Internship
